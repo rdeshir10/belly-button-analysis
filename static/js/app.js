@@ -69,6 +69,8 @@ function buildCharts(sample) {
 
     var layout = {
       title: 'Bacteria Cultures per Sample',
+      xaxis: { title: `OTU ID` },
+      yaxis: { title: `Number of Bacteria` },
       showlegend: false,
       height: 800,
       width: 1200
@@ -100,6 +102,7 @@ function buildCharts(sample) {
     // Render the Bar Chart
     var layout = {
       title: "Top Ten Bacteria Cultures Found",
+      xaxis: { title: `Number of Bacteria` },
       showlegend: false,
       height: 500,
       width: 900
