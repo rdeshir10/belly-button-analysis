@@ -139,7 +139,8 @@ function init() {
     console.log(`firstOption`)
     console.log(firstOption)
     // Build charts and metadata panel with the first sample
-
+    buildMetadata('940');
+    buildCharts('940')
   });
 }
 
