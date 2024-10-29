@@ -1,7 +1,7 @@
-# Belly Button Challenge
+# Belly Button Analysis
 
 ## Overview
-The **Belly Button Challenge** is an interactive web application designed to visualize and analyze microbial diversity data collected from belly button samples. The application enables users to explore various insights regarding bacterial species and their prevalence among individuals, making it a valuable tool for understanding human microbiome data.
+The **Belly Button Analysis** is an interactive web application designed to visualize and analyze microbial diversity data collected from belly button samples. The application enables users to explore various insights regarding bacterial species and their prevalence among individuals, making it a valuable tool for understanding human microbiome data.
 
 ## Features
 - **Dynamic Visualizations:** Utilize D3.js and Plotly to create engaging and informative visual representations of the data.
